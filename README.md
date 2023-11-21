@@ -7,7 +7,7 @@ This is my personal GitHub repository where I share code, projects, and various 
 I'm Milos, a passionate Frontend Developer based in Ljubljana, Slovenia. I specialize in front-end development and love building interactive and responsive user interfaces.
 
 **Skills and Specialties:**
-- :computer: HTML | CSS | JavaScript | TypeScript
+- :computer: HTML | CSS | JavaScript | TypeScript | React
 - :pencil2: UI/UX Design Principles
 - :hammer_and_wrench: PHP | Bootstrap | WordPress | MySQL
 - :desktop_computer: Git | SASS / SCSS | XML 
