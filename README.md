@@ -7,14 +7,16 @@ This is my personal GitHub repository where I share code, projects, and various 
 I'm Milos, a passionate Frontend Developer based in Ljubljana, Slovenia. I specialize in front-end development and love building interactive and responsive user interfaces.
 
 **Skills and Specialties:**
-:computer: Programming Languages: HTML5 | CSS/SCSS | JavaScript | TypeScript
-:pencil2: Frontend Frameworks: React | Vue.js
-:hammer_and_wrench: Backend Technologies: Node.js | PHP
-:desktop_computer: Technologies in Web Development: Next.js | Express.js
-:art: Styling Preprocessors: Tailwind CSS | SASS / SCSS
-:floppy_disk: Database: MySQL | MongoDB
-:octocat: Version Control System: Git
-:arrows_counterclockwise: Other Skills: RESTful APIs | Responsive Design
+
+- 🛠️ **Skills and Specialties**
+- 🌐 **Programming Languages**: HTML5, CSS/SCSS, JavaScript, TypeScript
+- 🎨 **Frontend Frameworks**: React, Vue.js
+- ⚙️ **Backend Technologies**: Node.js, PHP
+- 🌟 **Web Development Tools**: Next.js, Express.js
+- 🎨 **Styling and Design**: Tailwind CSS, SASS/SCSS
+- 🗃️ **Databases**: MySQL, MongoDB
+- 🌀 **Version Control**: Git
+- 🔗 **Additional Skills**: RESTful APIs, Responsive Design
 
 ## Connect with Me
 
