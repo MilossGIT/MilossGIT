@@ -5,9 +5,9 @@
 [![Email](https://img.shields.io/badge/Email-minicm034%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:minicm034@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Ljubljana%2C_Slovenia-24292e?style=flat&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Ljubljana,+Slovenia)
 
-### **Software Integration Engineer · Building AI-powered tools & automation**
+### **Building AI-powered tools & automation**
 
-Product-minded engineer with 10+ years in web development and systems integration. I specialize in integrating complex web products, streamlining workflows, and building AI-powered tools to eliminate repetitive manual processes.
+Product engineer with 10+ years in web development and systems integration. I specialize in integrating complex web products, streamlining workflows, and building AI-powered tools to eliminate repetitive manual processes.
 
 - 🤖 **AI & Automation**: Built retrieval-grounded knowledge assistants with source citations and confidence checks, automated multi-step runbooks across administrative systems, GitHub, Slack, and Jira (100+ automated runs), and actively leverage agentic workflows using Claude Code, Cursor, and MCP integrations.
 - 🌐 **Full-Stack & Systems**: Deep expertise in TypeScript, React, Next.js, Node.js, and Python/Django with a strong focus on clean APIs, resilient architecture, and responsive UX.
